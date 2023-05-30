@@ -1,0 +1,13 @@
+/* 
+This file was created automatically by the Catalog at: https://9338-2001-569-5260-900-6956-475a-9341-723d.ngrok-free.app
+Note this file is JSON5: https://json5.org/ so can contain comments and trailing commas and more.
+*/
+{
+  "name": ".github",
+  "priority": 5,
+  "description": null,
+  "meta": {
+    "github": "https://github.com/burnt-tomatoes/.github",
+    "issues": "https://github.com/burnt-tomatoes/.github/issues"
+  }
+}
