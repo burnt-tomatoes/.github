@@ -1,0 +1,1 @@
+This organisation is a test organisation designed to be used as an example for the service catalog. None of it connects to or is related to production code or users data. However if you do have any concerns, please contact andy@cleearwind.ca.
